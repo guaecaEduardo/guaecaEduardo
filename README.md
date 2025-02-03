@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Eduardo working @GUAECA 
-- 👀 I’m interested in create the MVP as fast/better possible
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... whatsapps/mail
+- 👋 Hi, I’m Eduardo, founder of **GUAECA**  
+- 🚀 I’m focused on building products **faster, better, and cheaper—all at once**  
+- 🤖 I believe **AI will replace a lot of what we do**—so I’m building for that future  
 
 <!---
 guaecaEduardo/guaecaEduardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
